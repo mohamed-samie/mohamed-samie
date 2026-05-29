@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=720&lines=AI+Engineer;Building+LLM+Apps+and+ML+Pipelines;FastAPI+%7C+RAG+%7C+AI+Systems" alt="Typing SVG" />
 </p>
 
+---
+
+## About
+
 - CS & AI Student @ **Assiut University**
 - AI Engineer Intern @ **e& Egypt**
 
@@ -16,7 +20,6 @@ Focused on building production-oriented AI applications — from LLM-powered too
 **AI Engineer Intern — e& Egypt** *(Aug 2025 – Sep 2025)*
 
 **AI & Data Bootcamp Trainee — EYouth** *(Apr 2025 – May 2025)*
-
 Project ranked **#4 among 30+ projects**.
 
 ---
@@ -31,6 +34,9 @@ Project ranked **#4 among 30+ projects**.
 
 **Telecom Churn Prediction** — End-to-end ML pipeline for customer churn prediction using feature engineering, model evaluation, and Streamlit deployment.  
 `Python` · `SQL` · `Scikit-learn` · `Streamlit` · `ML Pipeline`
+
+**NL-to-SQL Assistant** — Natural language to SQL application that converts business questions into structured SQL queries and insights.  
+`FastAPI` · `Gemini API` · `SQL` · `Data Engineering`
 
 ---
 
