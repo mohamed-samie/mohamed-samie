@@ -20,7 +20,6 @@ Focused on building production-oriented AI applications — from LLM-powered too
 **AI Engineer Intern — e& Egypt** *(Aug 2025 – Sep 2025)*
 
 **AI & Data Bootcamp Trainee — EYouth** *(Apr 2025 – May 2025)*
-Project ranked **#4 among 30+ projects**.
 
 ---
 
