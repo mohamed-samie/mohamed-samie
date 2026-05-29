@@ -12,11 +12,10 @@
 
 ## About
 
-I'm focused on building production-oriented AI applications — from LLM-powered tools and RAG workflows to machine learning pipelines and backend AI systems.
-
 - CS & AI Student @ **Assiut University**
 - AI Engineer Intern @ **e& Egypt**
-- Currently building **Lecta AI**, an AI study assessment platform
+
+Focused on building production-oriented AI applications — from LLM-powered tools and RAG workflows to machine learning pipelines and backend AI systems
 
 ---
 
