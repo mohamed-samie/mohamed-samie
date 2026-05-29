@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=720&lines=AI+Engineer;Building+LLM+Apps+and+ML+Pipelines;FastAPI+%7C+RAG+%7C+AI+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>Computer Science & AI student building practical AI systems with FastAPI, LLMs, RAG, and ML pipelines.</b>
-</p>
-
 ---
 
 ## About
