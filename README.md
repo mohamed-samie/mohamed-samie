@@ -35,9 +35,6 @@ Project ranked **#4 among 30+ projects**.
 **Telecom Churn Prediction** — End-to-end ML pipeline for customer churn prediction using feature engineering, model evaluation, and Streamlit deployment.  
 `Python` · `SQL` · `Scikit-learn` · `Streamlit` · `ML Pipeline`
 
-**NL-to-SQL Assistant** — Natural language to SQL application that converts business questions into structured SQL queries and insights.  
-`FastAPI` · `Gemini API` · `SQL` · `Data Engineering`
-
 ---
 
 ## Tech Stack
