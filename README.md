@@ -1,54 +1,61 @@
-# Hi, I'm Mohamed Abdel-Samie 👋
+<h1 align="center">Hi, I'm Mohamed Abdel-Samie 👋</h1>
 
-AI Engineer and Computer Science student focused on building production-ready AI systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+LLM+Apps+%26+ML+Pipelines;FastAPI+%7C+RAG+%7C+Data+Engineering" alt="Typing SVG" />
+</p>
 
-I build:
-- LLM-powered applications
-- Machine learning pipelines
-- RAG-based systems
-- FastAPI backends
-- Full-stack AI products
-- Data engineering workflows
+<p align="center">
+  <a href="https://linkedin.com/in/mo-abdelsamie">
+    <img src="https://img.shields.io/badge/LinkedIn-mo--abdelsamie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohamed-samie">
+    <img src="https://img.shields.io/badge/GitHub-mohamed--samie-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## Experience
+---
 
-**AI Engineer Intern — e& Egypt**  
-Worked on scalable SQL data pipelines and churn prediction workflows for telecom datasets exceeding 2M+ records.
+### About
 
-**AI & Data Bootcamp Trainee — EYouth**  
-Built data engineering models, natural language to SQL applications, and forecasting systems using Azure, FastAPI, Gemini API, and machine learning models.
+AI Engineer and Computer Science student focused on building practical AI systems — from LLM-powered applications and RAG workflows to ML pipelines and FastAPI backends.
 
-## Featured Projects
+- AI Engineer Intern at **e& Egypt**
+- Built ML workflows for telecom-scale datasets exceeding **2M+ records**
+- Building **Lecta AI**, an AI study assessment platform for professor-style exams
+- Interested in **LLM apps, ML systems, RAG, backend engineering, and data engineering**
 
-### Lecta AI
-AI-powered study assessment platform that generates professor-style exams from real lecture files and previous exams.
+---
 
-**Tech:** Next.js, TypeScript, FastAPI, Celery, Redis, pgvector, LangChain, Groq
+### Featured Projects
 
-### HemaSense
-AI laboratory management system with CBC-based anemia classification, role-based workflows, report generation, and local LLM assistance.
+| Project | Description | Tech |
+|---|---|---|
+| **Lecta AI** | AI study assessment platform that generates professor-style exams from real lecture files | Next.js, FastAPI, RAG, pgvector, Celery, Redis |
+| **HemaSense** | AI laboratory management system with CBC-based anemia classification and local LLM assistance | FastAPI, MySQL, Scikit-learn, Python |
+| **Telecom Churn Prediction** | End-to-end ML pipeline for churn prediction using feature engineering and Streamlit deployment | Python, SQL, Scikit-learn, Streamlit |
+| **NL-to-SQL Assistant** | Natural language to SQL application for converting business questions into structured queries | FastAPI, Gemini API, SQL |
 
-**Tech:** Python, FastAPI, MySQL, Scikit-learn, HTML/CSS/JS
+---
 
-### Telecom Churn Prediction
-End-to-end machine learning pipeline for customer churn prediction using feature engineering, classification models, evaluation, and Streamlit deployment.
+### Tech Stack
 
-**Tech:** Python, SQL, Scikit-learn, Streamlit
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,cpp,java,fastapi,nextjs,react,postgres,mysql,redis,docker,git,azure" />
+</p>
 
-### NL-to-SQL Analytics Assistant
-Natural language to SQL web application that converts business questions into SQL queries and returns structured insights.
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square" />
+</p>
 
-**Tech:** FastAPI, Gemini API, SQL Server, Python
+---
 
-## Tech Stack
+### GitHub Stats
 
-**Languages:** Python, SQL, TypeScript, C++, Java  
-**Backend:** FastAPI, Streamlit, Celery  
-**AI/ML:** Scikit-learn, LangChain, Hugging Face, NumPy, Pandas, pgvector  
-**Databases:** PostgreSQL, MySQL, SQL Server, Redis, Supabase  
-**Tools:** Git, Docker, Azure, Tableau
-
-## Connect with me
-
-- LinkedIn: linkedin.com/in/mo-abdelsamie
-- GitHub: github.com/mohamed-samie
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamed-samie&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-samie&layout=compact&theme=transparent&hide_border=true" />
+</p>
