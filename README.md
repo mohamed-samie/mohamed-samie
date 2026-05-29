@@ -5,9 +5,6 @@
 </p>
 
 ---
-
-## About
-
 - CS & AI Student @ **Assiut University**
 - AI Engineer Intern @ **e& Egypt**
 
