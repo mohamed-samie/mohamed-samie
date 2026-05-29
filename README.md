@@ -17,11 +17,9 @@ Focused on building production-oriented AI applications — from LLM-powered too
 
 ## Experience
 
-**- AI Engineer Intern — e& Egypt**  
-Built SQL data pipelines and ML workflows for telecom-scale datasets exceeding **2M+ records**.
+**AI Engineer Intern — e& Egypt** *(Aug 2025 – Sep 2025)*
 
-**- AI & Data Bootcamp Trainee — EYouth**  
-Built data engineering, NL-to-SQL, and forecasting systems.  
+**AI & Data Bootcamp Trainee — EYouth** *(Apr 2025 – May 2025)*
 Project ranked **#4 among 30+ projects**.
 
 ---
