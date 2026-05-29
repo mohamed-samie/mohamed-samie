@@ -26,7 +26,7 @@ Focused on building production-oriented AI applications — from LLM-powered too
 ## Projects
 
 **[Lecta AI](https://github.com/mohamed-samie/lecta-ai)** — AI study assessment platform that generates professor-style exams from real lecture files using RAG and async AI pipelines.  
-`Next.js` · `TypeScript` · `FastAPI` · `Celery` · `Redis` · `Supabase` · `Clerk` · `RAG` · `Groq`
+`LangChain` · `RAG` · `Groq API` · `Next.js` · `TypeScript` · `FastAPI` · `Celery` · `Redis` · `Supabase` · `Clerk`
 
 **[HemaSense](https://github.com/mohamed-samie/HemaSense-System-Laboratory-Management-System-)** — AI laboratory management system with CBC-based anemia classification, patient workflows, and local LLM assistance.  
 `FastAPI` · `MySQL` · `Scikit-learn` · `Python` · `LLM`
