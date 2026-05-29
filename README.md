@@ -72,7 +72,4 @@ Project ranked **#4 among 30+ projects**.
 
 ## Connect
 
-🌐 [GitHub](https://github.com/mohamed-samie) ·  
-💼 [LinkedIn](https://linkedin.com/in/mo-abdelsamie) ·  
-📸 [Instagram](https://www.instagram.com/mo.elsamei/) ·  
-✉️ [mo.elsamie@gmail.com](mailto:mo.elsamie@gmail.com)
+🌐 [GitHub](https://github.com/mohamed-samie) ·  💼 [LinkedIn](https://linkedin.com/in/mo-abdelsamie) ·  📸 [Instagram](https://www.instagram.com/mo.elsamei/) ·  ✉️ [mo.elsamie@gmail.com](mailto:mo.elsamie@gmail.com)
