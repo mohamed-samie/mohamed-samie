@@ -1,12 +1,13 @@
-# Mohamed Abdel-Samie
+<h1 align="center">Mohamed Abdel-Samie</h1>
 
-### Computer Science & AI Student at Assiut University
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=720&lines=AI+Engineer;Building+LLM+Apps+and+ML+Pipelines;FastAPI+%7C+RAG+%7C+AI+Systems" alt="Typing SVG" />
+</p>
 
-<img src="https://img.shields.io/badge/AI%20Engineer%20Intern-e%26%20Egypt-6A1B9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+- CS & AI Student @ **Assiut University**
+- AI Engineer Intern @ **e& Egypt**
 
-Focused on building production-oriented AI applications — from LLM-powered tools and RAG workflows to machine learning pipelines and backend AI systems.
+Focused on building production-oriented AI applications — from LLM-powered tools and RAG workflows to machine learning pipelines and backend AI systems
 
 ---
 
