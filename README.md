@@ -33,21 +33,17 @@ Project ranked **#4 among 30+ projects**.
 
 ## Projects
 
-**Lecta AI**  
-AI study assessment platform that generates professor-style exams from real lecture files.  
-`Next.js` `FastAPI` `RAG` `pgvector` `Celery` `Redis`
+**[Lecta AI](https://github.com/mohamed-samie/lecta-ai)** — AI study assessment platform that generates professor-style exams from real lecture files using RAG and async AI pipelines.  
+`Next.js` · `TypeScript` · `FastAPI` · `Celery` · `Redis` · `Supabase` · `Clerk` · `RAG` · `Groq`
 
-**HemaSense**  
-AI laboratory management system with CBC-based anemia classification and local LLM assistance.  
-`FastAPI` `MySQL` `Scikit-learn` `Python`
+**[HemaSense](https://github.com/mohamed-samie/HemaSense-System-Laboratory-Management-System-)** — AI laboratory management system with CBC-based anemia classification, patient workflows, and local LLM assistance.  
+`FastAPI` · `MySQL` · `Scikit-learn` · `Python` · `LLM`
 
-**Telecom Churn Prediction**  
-End-to-end ML pipeline for customer churn prediction using feature engineering, model evaluation, and Streamlit deployment.  
-`Python` `SQL` `Scikit-learn` `Streamlit`
+**Telecom Churn Prediction** — End-to-end ML pipeline for customer churn prediction using feature engineering, model evaluation, and Streamlit deployment.  
+`Python` · `SQL` · `Scikit-learn` · `Streamlit` · `ML Pipeline`
 
-**NL-to-SQL Assistant**  
-Natural language to SQL application that converts business questions into structured SQL queries.  
-`FastAPI` `Gemini API` `SQL`
+**NL-to-SQL Assistant** — Natural language to SQL application that converts business questions into structured SQL queries and insights.  
+`FastAPI` · `Gemini API` · `SQL` · `Data Engineering`
 
 ---
 
@@ -76,14 +72,7 @@ Natural language to SQL application that converts business questions into struct
 
 ## Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/mo-abdelsamie">
-    <img src="https://img.shields.io/badge/LinkedIn-mo--abdelsamie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mo.elsamie@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mo.elsamie%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mo.elsamei/">
-    <img src="https://img.shields.io/badge/Instagram-mo.elsamei-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+🌐 [GitHub](https://github.com/mohamed-samie) ·  
+💼 [LinkedIn](https://linkedin.com/in/mo-abdelsamie) ·  
+📸 [Instagram](https://www.instagram.com/mo.elsamei/) ·  
+✉️ [mo.elsamie@gmail.com](mailto:mo.elsamie@gmail.com)
