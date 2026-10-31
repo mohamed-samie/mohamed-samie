@@ -8,8 +8,8 @@
 
 ## About
 
-- CS & AI Student
-- AI Engineer Intern @ **e& Egypt**
+- CS & AI Student (graduating 2027)
+- Ex-AI Engineer Intern @ **e& Egypt**
 
 Focused on building production-oriented AI applications — from LLM-powered tools and RAG workflows to machine learning pipelines and backend AI systems
 
@@ -21,18 +21,23 @@ Focused on building production-oriented AI applications — from LLM-powered too
 
 **EYouth — AI & Data Bootcamp Trainee** *(Apr 2025 – May 2025)*
 
+**iSchool — Coding Instructor (DEMI, MCIT initiative)** *(2026)*
+
 ---
 
 ## Projects
 
-**[Lecta AI](https://github.com/mohamed-samie/lecta-ai)** — AI study assessment platform that generates professor-style exams from real lecture files using RAG and async AI pipelines.  
-`LangChain` · `RAG` · `Groq API` · `Next.js` · `TypeScript` · `FastAPI` · `Celery` · `Redis` · `Supabase` · `Clerk`
+**[DocuMind](https://github.com/mohamed-samie/documind-ai-document-intelligence)** — RAG system for business documents with hybrid retrieval, reranking, and cited answers. Evaluated on FinanceBench (150 questions, 84 SEC filings); a routing fix raised library-wide Hit@8 from 24% to 41%.  
+`RAG` · `pgvector` · `FastAPI` · `Next.js` · `Sentence-Transformers` · `Groq API`
+
+**[Lecta AI](https://github.com/mohamed-samie/lecta-ai)** — Generates professor-style exams from lecture PDFs using RAG, with in-browser grading and weak-area feedback.  
+`LangChain` · `RAG` · `Groq API` · `Next.js` · `TypeScript` · `FastAPI` · `Celery` · `Redis` · `Docker`
 
 **[HemaSense](https://github.com/mohamed-samie/HemaSense-System-Laboratory-Management-System-)** — AI laboratory management system with CBC-based anemia classification, patient workflows, and local LLM assistance.  
 `FastAPI` · `MySQL` · `Scikit-learn` · `Python` · `LLM`
 
-**Telecom Churn Prediction** — End-to-end ML pipeline for customer churn prediction using feature engineering, model evaluation, and Streamlit deployment.  
-`Python` · `SQL` · `Scikit-learn` · `Streamlit` · `ML Pipeline`
+**Telecom Churn Prediction (e& Egypt)** — Team ML pipeline on 2.15M telecom customers; a class-balanced Random Forest reached 0.93 ROC-AUC and caught 89% of churners.  
+`Python` · `SQL` · `Scikit-learn` · `ML Pipeline`
 
 ---
 
