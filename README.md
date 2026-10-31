@@ -8,7 +8,7 @@
 
 ## About
 
-- CS & AI Student @ **Assiut University**
+- CS & AI Student
 - AI Engineer Intern @ **e& Egypt**
 
 Focused on building production-oriented AI applications — from LLM-powered tools and RAG workflows to machine learning pipelines and backend AI systems
